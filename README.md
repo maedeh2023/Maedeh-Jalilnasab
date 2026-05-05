@@ -1,8 +1,7 @@
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f8c8dc&height=220&section=header&text=🌷%20Welcome%20to%20Maedeh's%20GitHub%20💖&fontSize=38&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20Explorer%20%7C%20UI%20Lover%20✨&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f4a4c0&height=220&section=header&text=💞%20Hi%2C%20I'm%20Maedeh!%20Welcome%20to%20My%20World%20🎀&fontSize=34&fontColor=fff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20%7C%20UI%20Lover%20✨&descAlign=50&descAlignY=60" />
 </p>
+
 
 <h1 align="center">🌷 Hi, I'm Maedeh 👋</h1>
 <h3 align="center">💖 Junior Frontend Developer | React Explorer | UI Lover ✨</h3>
