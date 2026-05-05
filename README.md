@@ -20,36 +20,41 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="70">
-      <img src="https://skillicons.dev/icons?i=js" width="52" height="52" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript"/>
+      <br/><sub><b>JavaScript</b></sub>
     </td>
-    <td align="center" width="70">
-      <img src="https://skillicons.dev/icons?i=html" width="52" height="52" alt="HTML5"/><br/><sub><b>HTML5</b></sub>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5"/>
+      <br/><sub><b>HTML5</b></sub>
     </td>
-    <td align="center" width="70">
-      <img src="https://skillicons.dev/icons?i=css" width="52" height="52" alt="CSS3"/><br/><sub><b>CSS3</b></sub>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS3"/>
+      <br/><sub><b>CSS3</b></sub>
     </td>
-    <td align="center" width="70">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="52" height="52" alt="Tailwind CSS"/><br/><sub><b>Tailwind</b></sub>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS"/>
+      <br/><sub><b>Tailwind</b></sub>
     </td>
-    <td align="center" width="70">
-      <img src="https://skillicons.dev/icons?i=react" width="52" height="52" alt="React"/><br/><sub><b>React</b></sub>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/>
+      <br/><sub><b>React</b></sub>
     </td>
-    <td align="center" width="70">
-      <img src="https://skillicons.dev/icons?i=nextjs&theme=light" width="52" height="20" alt="Next.js"/><br/><sub><b>Next.js</b></sub>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs&theme=light" width="48" alt="Next.js"/>
+      <br/><sub><b>Next.js</b></sub>
     </td>
-    <td align="center" width="70">
-      <img src="https://skillicons.dev/icons?i=git" width="52" height="52" alt="Git"/><br/><sub><b>Git</b></sub>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/>
+      <br/><sub><b>Git</b></sub>
     </td>
-    <td align="center" width="70">
-      <img src="https://skillicons.dev/icons?i=github&theme=light" width="52" height="52" alt="GitHub"/><br/><sub><b>GitHub</b></sub>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=github&theme=light" width="48" alt="GitHub"/>
+      <br/><sub><b>GitHub</b></sub>
     </td>
   </tr>
 </table>
 
----
-
-## 🌼 What I'm Working On
 🌿 Building small React projects  
 ✨ Improving component structure  
 💻 Learning better state management  
