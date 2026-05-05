@@ -36,7 +36,7 @@
       <img src="https://skillicons.dev/icons?i=react" width="52" height="52" alt="React"/><br/><sub><b>React</b></sub>
     </td>
     <td align="center" width="70">
-      <img src="https://skillicons.dev/icons?i=nextjs&theme=light" width="52" height="52" alt="Next.js"/><br/><sub><b>Next.js</b></sub>
+      <img src="https://skillicons.dev/icons?i=nextjs&theme=light" width="52" height="20" alt="Next.js"/><br/><sub><b>Next.js</b></sub>
     </td>
     <td align="center" width="70">
       <img src="https://skillicons.dev/icons?i=git" width="52" height="52" alt="Git"/><br/><sub><b>Git</b></sub>
