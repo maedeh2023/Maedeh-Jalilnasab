@@ -17,7 +17,6 @@
 
   <!-- Languages -->
   <img src="https://img.shields.io/badge/JavaScript-f7d046?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
 
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-ff6b6b?style=for-the-badge&logo=html5&logoColor=white" />
