@@ -56,15 +56,15 @@
 
 ## 💌 Contact Me
 📧 Email: **Maedeh@gmail.com**  
-💻 GitHub: [github.com/maedehdj](https://github.com/maedehdj)
+💻 GitHub: [github.com/maedehdj](https://github.com/maedehd2023)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=maedehdj&show_icons=true&theme=rose_pine" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=maedehdj&theme=rose_pine" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=maedehd2023&show_icons=true&theme=rose_pine" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=maedehd2023&theme=rose_pine" />
 </p>
 
 ---
