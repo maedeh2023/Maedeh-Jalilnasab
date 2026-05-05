@@ -17,21 +17,23 @@
 
 ## 💚 Tech Stack
 
-<p align="left">
+<p align="center">
 
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-d7f8e0?style=for-the-badge&logo=javascript&logoColor=2e5e4e" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
 
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-b5e5cf?style=for-the-badge&logo=html5&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/CSS3-a0e7b0?style=for-the-badge&logo=css3&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/TailwindCSS-c7f9cc?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/React-d4f8e8?style=for-the-badge&logo=react&logoColor=2e7c67" />
-  <img src="https://img.shields.io/badge/Next.js-b7e4c7?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
+  <!-- Frontend Basics -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 
   <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-d8f3dc?style=for-the-badge&logo=git&logoColor=2d6a4f" />
-  <img src="https://img.shields.io/badge/GitHub-95d5b2?style=for-the-badge&logo=github&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 </p>
 
