@@ -1,5 +1,7 @@
+
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=200&section=header&text=Welcome%20to%20Maedeh's%20GitHub%20%F0%9F%92%96&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f8c8dc&height=220&section=header&text=🌷%20Welcome%20to%20Maedeh's%20GitHub%20💖&fontSize=38&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20Explorer%20%7C%20UI%20Lover%20✨&descAlign=50&descAlignY=60" />
 </p>
 
 <h1 align="center">🌷 Hi, I'm Maedeh 👋</h1>
