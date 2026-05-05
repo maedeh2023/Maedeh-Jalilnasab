@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=24&duration=3000&pause=1000&color=74C69D&center=true&vCenter=true&width=700&lines=Frontend+Developer+in+progress+%F0%9F%8C%BF;Learning+React+and+Next.js+step+by+step+%E2%9C%A8;Turning+ideas+into+clean+and+beautiful+UI+%F0%9F%92%9A" alt="Typing SVG" />
 </p>
 
-چ
-<p align="center">
-  <i>“Little by little, day by day, I’m building the skills to create beautiful things.”</i>
-</p>
 
 ---
 
@@ -78,7 +74,7 @@
 
 ## 🍃 Daily Vibe
 <p align="center">
-  <img src="https://img.shields.io/badge/Coding_with_green_vibes-💚-B7E4C7?style=for-the-badge" />
+  <i>“Little by little, day by day, I’m building the skills to create beautiful things.”</i>
 </p>
 
 ---
