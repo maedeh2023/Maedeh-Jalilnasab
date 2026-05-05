@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f4a4c0&height=220&section=header&text=💞%20Hi%2C%20I'm%20Maedeh!%20Welcome%20to%20My%20World%20🎀&fontSize=34&fontColor=fff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20%7C%20UI%20Lover%20✨&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=200&section=header&text=Welcome%20to%20Maedeh's%20GitHub%20%F0%9F%92%96&fontSize=35&fontColor=ffffff" />
 </p>
+
 
 
 <h1 align="center">🌷 Hi, I'm Maedeh 👋</h1>
@@ -70,4 +71,4 @@
 ---
 
 ## 🫧 Fun Fact
-I love turning ideas into simple, beautiful and aesthetic user interfaces 💙✨
+I love turning ideas into simple, beautiful and aesthetic user interfaces ✨
