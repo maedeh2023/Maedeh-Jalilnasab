@@ -62,11 +62,10 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=maedeh2023&show_icons=true&theme=rose_pine" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=maedeh2023&theme=rose_pine" />
+  <img src="https://img.shields.io/badge/Coding_with_Love-💖-ffbde6" />
 </p>
+
 
 ---
 
